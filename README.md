@@ -12,7 +12,7 @@ Paso 1 crear carpeta del proyecto
 paso 2 configurar git. 
 iniciar git en el repo
 configurar git (correo y usuario)
-Descargar los archivos de git.
+Descargar los archivos de github con:
 git pull --allow-unrelated-histories origin master 
 
 Se creo la rama backend para cambios en el back
