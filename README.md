@@ -14,10 +14,9 @@ iniciar git en el repo
 configurar git (correo y usuario)
 Descargar los archivos de github por primera vez con:
 git pull --allow-unrelated-histories origin master
-git pull --allow-unrelated-histories origin develop
-git pull --allow-unrelated-histories origin backend
-git pull --allow-unrelated-histories origin frontend
-git pull --allow-unrelated-histories origin hotfix
+git pull --allow-unrelated-histories origin agustina
+git pull --allow-unrelated-histories origin pablo
+git pull --allow-unrelated-histories origin ivan
 
 
 Se creo la rama backend para cambios en el back
