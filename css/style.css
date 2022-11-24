@@ -1,3 +1,8 @@
+html {
+  background-image: rgb(255, 192, 19);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 h1 {
     color: white
 }
